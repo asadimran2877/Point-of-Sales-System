@@ -1,0 +1,8 @@
+How to Run
+
+We need
+
+
+Java SDK11
+Netbeans 
+SQL Server
