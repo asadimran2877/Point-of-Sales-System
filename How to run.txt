@@ -1,8 +1,10 @@
 How to Run
 
-We need
-
+Required:
 
 Java SDK11
 Netbeans 
 SQL Server
+
+
+Note: Replace Database name, username and password in Connection URL with your own credentials. (Change URL in all files in which connectivity is performed)
